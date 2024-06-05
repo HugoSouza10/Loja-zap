@@ -1,0 +1,10 @@
+Adicionar o componente sheet: Este componente
+é basicamente uma gaveta contendo um side menu
+
+npx shadcn-ui add sheet
+
+
+link da documentação: 
+https://ui.shadcn.com/docs/components/sheet
+
+

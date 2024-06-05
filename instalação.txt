@@ -1,0 +1,12 @@
+Configurar o shadcn:
+https://ui.shadcn.com/docs/installation/next.
+
+
+para criar o projeto em next 
+
+npx create-next-app
+
+
+Para adicionar dark-mode:
+
+https://ui.shadcn.com/docs/dark-mode/next

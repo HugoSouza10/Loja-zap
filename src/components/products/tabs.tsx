@@ -59,8 +59,8 @@ export const ProductTabs = async () => {
                     {item.products.length > 0 &&
                         <div className="grid gap-5 grid-cols-2 sm: grid-flow-col-3 md:grid-cols-4">
                             {/*Aqui a gente faz um loop dentro do array de produtos */}
-                            {item.products.map(products =>(
-                                <div>{products.name}</div>
+                            {item.products.map(product =>(
+                                <ProductItem key={product.id} item={product}/>
                             ))}
                         </div>
                     }

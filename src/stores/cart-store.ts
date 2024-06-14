@@ -24,10 +24,11 @@ export const useCartStore = create<States & Actions>(set => ({
     upsertCartItem: (product, quantity) => set(state => {
         //Pegando o carrinho
         let newCart = state.cart;
+        console.log(newCart)
 
         let productIndex = newCart.findIndex(item => item.product.id === product.id);
 
-        if(productIndex <0) {
+        if(productIndex < 0) {
             newCart.push({product, quantity:0});
             productIndex = newCart.findIndex(item => item.product.id === product.id);
         }
@@ -35,10 +36,8 @@ export const useCartStore = create<States & Actions>(set => ({
         //Aqui a gente aumenta ou não a quantidade
         newCart[productIndex].quantity += quantity;
 
-        console.log(newCart)
-
         if(newCart[productIndex].quantity <= 0) {
-            newCart.filter(item=> item.product.id != product.id);
+            newCart = newCart.filter(item=> item.product.id != product.id);
         }
 
         return {...state, cart: newCart}

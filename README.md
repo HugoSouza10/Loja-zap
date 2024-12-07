@@ -6,7 +6,7 @@ Carrinho de Compras: Adicione, remova e visualize seus produtos.
 Categorias de Produtos: Navegue pelos produtos organizados por categorias.
 Construída com tecnologias de ponta para oferecer uma experiência fluida e agradável!
 
-##🌟 Destaques
+## 🌟 Destaques
 Design Responsivo: Compatível com dispositivos móveis e desktops.
 Interface Moderna: Criada com o poderoso ShadCN UI.
 Estilo Personalizado: Desenvolvido com o elegante Tailwind CSS.

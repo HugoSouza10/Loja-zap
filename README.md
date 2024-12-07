@@ -11,6 +11,7 @@ Construída com tecnologias de ponta para oferecer uma experiência fluida e agr
 - 🚀 **Desempenho Rápido:** Potência e eficiência com Next.js 14.
 - 🎨 **Design Personalizado:** Construído com ShadCN UI e Tailwind CSS.
 - 💡 **Gerenciamento Eficiente:** Facilite estados com Zustand.
+- ✅ Validação Robusta: Controle de formulários com React Hook Form e validações com Zod.
 
 
 ## 🚀 Tecnologias Utilizadas

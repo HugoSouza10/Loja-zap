@@ -36,9 +36,3 @@ Tailwind CSS: Framework de estilização utilitária para uma criação ágil e 
     npm run dev
     # ou
     yarn dev
-
-
-
-
-
-

@@ -24,7 +24,7 @@ Tailwind CSS: Framework de estilização utilitária para uma criação ágil e 
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/HugoSouza10/Loja-zap.git
-   cd Loja-zap
+   
 2. Instale as dependências:
    ```bash
     npm install

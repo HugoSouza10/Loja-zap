@@ -1,10 +1,14 @@
 # 🛒 Loja Zap
+
+![image](https://github.com/user-attachments/assets/3b8c85db-cc00-4f87-94d1-964c8389ebb0)
+
 Bem-vindo à Loja Zap, uma aplicação moderna e responsiva para compras online!
 Este projeto é uma pequena loja virtual com funcionalidades como:
 
 - 🛒 Carrinho de Compras: Adicione, remova e visualize seus produtos.
 - 📂 Categorias de Produtos: Navegue pelos produtos organizados por categorias.
 - 📲 Finalização de Compra: Ao clicar em "Finalizar Compra", seu pedido será enviado diretamente para o WhatsApp, facilitando o processo de compra.
+- 🌙 Modo Escuro (Dark Mode): Alternativa para uma experiência de visualização noturna confortável.
 
 Construída com tecnologias de ponta para oferecer uma experiência fluida e agradável!
 

@@ -2,8 +2,10 @@
 Bem-vindo à Loja Zap, uma aplicação moderna e responsiva para compras online!
 Este projeto é uma pequena loja virtual com funcionalidades como:
 
-Carrinho de Compras: Adicione, remova e visualize seus produtos.
-Categorias de Produtos: Navegue pelos produtos organizados por categorias.
+- 🛒 Carrinho de Compras: Adicione, remova e visualize seus produtos.
+- 📂 Categorias de Produtos: Navegue pelos produtos organizados por categorias.
+- 📲 Finalização de Compra: Ao clicar em "Finalizar Compra", seu pedido será enviado diretamente para o WhatsApp, facilitando o processo de compra.
+
 Construída com tecnologias de ponta para oferecer uma experiência fluida e agradável!
 
 

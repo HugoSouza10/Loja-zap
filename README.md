@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🛒 Loja Zap
+Bem-vindo à Loja Zap, uma aplicação moderna e responsiva para compras online!
+Este projeto é uma pequena loja virtual com funcionalidades como:
 
-## Getting Started
+Carrinho de Compras: Adicione, remova e visualize seus produtos.
+Categorias de Produtos: Navegue pelos produtos organizados por categorias.
+Construída com tecnologias de ponta para oferecer uma experiência fluida e agradável!
 
-First, run the development server:
+🌟 Destaques
+Design Responsivo: Compatível com dispositivos móveis e desktops.
+Interface Moderna: Criada com o poderoso ShadCN UI.
+Estilo Personalizado: Desenvolvido com o elegante Tailwind CSS.
+Desempenho Rápido: Aproveitando o poder do Next.js 14.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🚀 Tecnologias Utilizadas
+Next.js 14: Framework para React com foco em desempenho e experiência de desenvolvedor.
+ShadCN UI: Componentes modernos e personalizáveis.
+Tailwind CSS: Framework de estilização utilitária para uma criação ágil e customizável.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+📦 Como Rodar o Projeto
 
-## Learn More
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/HugoSouza10/Loja-zap.git
+   cd Loja-zap
+2. Instale as dependências:
+   ```bash
+    npm install
+    # ou
+    yarn install
 
-To learn more about Next.js, take a look at the following resources:
+3. Inicie o servidor de desenvolvimento:
+ ```bash
+    npm run dev
+    # ou
+    yarn dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+

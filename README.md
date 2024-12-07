@@ -1,4 +1,4 @@
-🛒 Loja Zap
+# 🛒 Loja Zap
 Bem-vindo à Loja Zap, uma aplicação moderna e responsiva para compras online!
 Este projeto é uma pequena loja virtual com funcionalidades como:
 
